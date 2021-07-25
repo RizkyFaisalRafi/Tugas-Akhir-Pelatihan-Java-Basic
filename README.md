@@ -1,3 +1,3 @@
 # Main.java
-Tugas-Akhir-Gamelab-Java-Basic
+Tugas-Akhir-Pelatihan-Java-Basic
 # Menggunakan Intelij IDEA 
